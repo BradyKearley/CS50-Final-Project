@@ -1,6 +1,5 @@
 # Sam Shooter
 #### Play Here <https://brady-kearley.itch.io/sam-shooter>
-#### Description:
 ## What Is Sam Shooter?
 Sam Shooter is a top-down wave survival shooter game. In this game, players assume the role of Sam, a skilled marksman tasked with defending against waves of enemys. As the game progresses, the waves become increasingly difficult ramping up and includeing some boss enemys. With each new game the player is given 2 random wepons and must defeat hordes of enemies to try and get a high score. Sam Shooter is a arcade style game where the goal is to survive for as long as possible.
 ## How Was Sam Shooter Developed?
